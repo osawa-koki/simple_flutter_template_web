@@ -1,17 +1,22 @@
 # simple_flutter_template_web
 
-A new Flutter project.
+Flutter(Web)の学習用プロジェクト。  
+Web作成用のGitHub Actionsファイル作成と基本動作の確認が目的。  
 
-## Getting Started
+## 実行方法
 
-This project is a starting point for a Flutter application.
+```shell
+flutter build web
+```
 
-A few resources to get you started if this is your first Flutter project:
+デバグ用はVSCodeでF5キーで実行可能。  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+対象となるプラットフォームはステータスバーから変更可能。  
+Chromeを選択する。  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![プラットフォームの選択](./.development/img/target_platform.png)  
 
+## 参考文献
+
+- [公式ドキュメント](https://docs.flutter.dev/get-started/install)
+- [kazutxtさんの記事](https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/01_chapter0_aboutme)
