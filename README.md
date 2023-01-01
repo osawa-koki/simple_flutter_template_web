@@ -16,6 +16,14 @@ Chromeを選択する。
 
 ![プラットフォームの選択](./.development/img/target_platform.png)  
 
+## 自分用メモ
+
+```shell
+# プロジェクトの作成
+flutter create ☆プロジェクト名☆
+# VSCodeのFlutter拡張機能の「Flutter: New Project」でもOK(コマンドパレット)
+```
+
 ## 参考文献
 
 - [公式ドキュメント](https://docs.flutter.dev/get-started/install)
